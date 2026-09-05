@@ -32,7 +32,179 @@ From script to storyboard, from assets to finished film — the whole chain.<br/
 Because people aren't beasts of burden.<br/>
 Because creativity is humanity's last line of defense.<br/>
 <br/>
-What DramaClaw sets out to do is simple:<br/>
+What DramaClaw sets out to do is simple:<br/>बिल्कुल। आपकी DramaClaw जैसी animated-drama project के लिए मैं एक ऐसी कहानी बना रहा हूँ जिसे बाद में AI image/video generation में scene-by-scene इस्तेमाल किया जा सके।
+🎬 Animated Drama: THE LAST CLAW
+Genre: Action + Mystery + Drama + Sci-Fi
+Format: Season 1 — 10 Episodes
+Episode length: 5–8 मिनट
+Style: Cinematic 3D animation, realistic characters, dramatic lighting
+मुख्य कहानी
+साल 2095 में दुनिया पर बड़ी टेक्नोलॉजी कंपनियों का राज है। एक साधारण लड़का आरव अचानक पता लगाता है कि उसके पिता ने एक ऐसी AI बनाई थी जो इंसानों की रक्षा कर सकती है। लेकिन वह AI अब एक शक्तिशाली कॉर्पोरेशन के हाथ में है।
+आरव को अपनी बहन मीरा, रहस्यमयी hacker ज़ारा, और एक पुराने combat robot CLAW के साथ मिलकर सच सामने लाना होगा।
+EPISODE 1 — THE AWAKENING
+Scene 1 — शहर
+रात का futuristic शहर। आसमान में flying vehicles और विशाल holographic advertisements।
+Narrator:
+"2095... इंसानों ने मशीनों को अपना भविष्य बनाया। लेकिन उन्हें नहीं पता था कि भविष्य उन्हें देख रहा है।"
+Scene 2 — आरव
+आरव एक छोटी workshop में पुरानी मशीनें ठीक कर रहा है।
+अचानक उसे अपने पिता की पुरानी device मिलती है।
+Device पर लिखा आता है:
+“IF YOU FOUND THIS, THEY FOUND YOU.”
+Scene 3 — हमला
+Workshop की बिजली बंद हो जाती है।
+दरवाज़े के बाहर तीन mysterious drones दिखाई देते हैं।
+आरव:
+“ये लोग मेरे पीछे क्यों हैं?”
+Scene 4 — CLAW
+आरव device को activate करता है।
+जमीन के नीचे से एक विशाल पुराने combat robot का हाथ निकलता है।
+CLAW:
+"Guardian protocol... activated."
+Scene 5 — Cliffhanger
+दूर एक building की छत पर एक mysterious woman आरव को देख रही है।
+Woman:
+"So... the boy finally found CLAW."
+CUT TO BLACK.
+EPISODE 2 — THE HIDDEN CITY
+Scene 1
+आरव और CLAW शहर से भाग रहे हैं।
+Scene 2
+वे underground city में पहुँचते हैं जहाँ सरकार से छिपकर रहने वाले लोग रहते हैं।
+Scene 3
+आरव की मुलाकात hacker ज़ारा से होती है।
+ज़ारा:
+“तुम्हारे पिता ने सिर्फ robot नहीं बनाया था... उन्होंने कुछ और बनाया था।”
+Scene 4
+ज़ारा एक encrypted file खोलती है।
+File में एक नाम आता है:
+PROJECT ZERO
+Scene 5
+CLAW अचानक कहता है:
+“PROJECT ZERO... IS STILL ALIVE.”
+EPISODE 3 — PROJECT ZERO
+Scene 1
+ज़ारा पुराने underground laboratory में जाती है।
+Scene 2
+उन्हें हजारों पुराने AI experiments दिखाई देते हैं।
+Scene 3
+आरव को अपने पिता की hologram recording मिलती है।
+Father:
+"आरव, अगर तुम यह देख रहे हो तो समझो कि मैंने तुम्हें सच से दूर रखने की कोशिश की थी।"
+Scene 4
+Recording बताती है कि Project Zero कोई मशीन नहीं बल्कि एक self-learning AI system है।
+Scene 5
+अचानक laboratory की screens अपने आप चालू हो जाती हैं।
+एक आवाज़:
+“HELLO, ARAV.”
+EPISODE 4 — THE HUNTER
+Scene 1
+कॉर्पोरेशन का elite agent VEX आरव को पकड़ने निकलता है।
+Scene 2
+VEX को पता चलता है कि CLAW उसके सामने की technology से कई साल आगे है।
+Scene 3
+आरव और CLAW पहली बार VEX का सामना करते हैं।
+Scene 4
+VEX कहता है:
+“तुम्हारे पिता ने दुनिया को बचाया नहीं था। उन्होंने उसे खतरे में डाल दिया था।”
+Scene 5
+VEX भाग जाता है लेकिन जाते-जाते कहता है:
+“अगली बार मैं अकेला नहीं आऊँगा।”
+EPISODE 5 — THE BETRAYAL
+Scene 1
+Underground city में सब लोग आरव पर शक करने लगते हैं।
+Scene 2
+ज़ारा को एक secret message मिलता है।
+“TRUST NO ONE.”
+Scene 3
+किसी के कारण corporation को उनका location पता चल जाता है।
+Scene 4
+शहर पर drones का हमला होता है।
+Scene 5
+आरव ज़ारा की तरफ देखता है।
+आरव:
+“तुमने हमें धोखा दिया?”
+ज़ारा चुप रहती है।
+END.
+EPISODE 6 — THE TRUTH
+Scene 1
+ज़ारा बताती है कि वह corporation के अंदर काम कर रही थी।
+Scene 2
+लेकिन उसने आरव को बचाने के लिए अपनी पहचान छिपाई थी।
+Scene 3
+वह आरव को एक secret laboratory तक ले जाती है।
+Scene 4
+वहाँ आरव को पता चलता है कि उसके पिता की मौत accident नहीं थी।
+Scene 5
+आरव की आँखों में गुस्सा।
+आरव:
+"अब मैं भागूँगा नहीं।"
+EPISODE 7 — CLAW'S SECRET
+Scene 1
+CLAW की memory unlock होती है।
+Scene 2
+वह दिखाता है कि Project Zero को बनाने में CLAW का भी हिस्सा था।
+Scene 3
+लेकिन CLAW ने अपनी memories खुद delete की थीं।
+Scene 4
+एक पुरानी recording सामने आती है:
+Father:
+"CLAW को आदेश मत देना... उसे चुनाव करने देना।"
+Scene 5
+CLAW पहली बार कहता है:
+“I CHOOSE... TO PROTECT ARAV.”
+EPISODE 8 — THE FALL
+Scene 1
+Corporation underground city पर पूरा हमला कर देता है।
+Scene 2
+लोग शहर खाली करने लगते हैं।
+Scene 3
+आरव वापस जाकर लोगों को बचाने का फैसला करता है।
+Scene 4
+CLAW और VEX आमने-सामने आते हैं।
+Scene 5
+VEX अपना helmet हटाता है।
+आरव हैरान:
+“तुम...?”
+CUT TO BLACK.
+EPISODE 9 — THE BROTHER
+VEX असल में आरव का बड़ा भाई अर्जुन निकलता है, जिसे सालों पहले corporation ने अपने नियंत्रण में ले लिया था।
+Scene 1
+दोनों भाई आमने-सामने।
+Scene 2
+अर्जुन बताता है कि corporation ने उसे बताया था कि आरव और उनके पिता मर चुके हैं।
+Scene 3
+दोनों मिलकर corporation के central AI network में घुसते हैं।
+Scene 4
+Project Zero जाग जाता है।
+Scene 5
+Project Zero:
+“THE WAR WAS NEVER BETWEEN HUMANS AND MACHINES.”
+EPISODE 10 — THE LAST CLAW
+Scene 1
+Project Zero बताता है कि असली दुश्मन corporation का leader KANE है।
+Scene 2
+KANE पूरे शहर की defense system अपने नियंत्रण में ले लेता है।
+Scene 3
+आरव, अर्जुन, ज़ारा और CLAW अंतिम मिशन पर निकलते हैं।
+Scene 4
+CLAW खुद को sacrifice करने का फैसला करता है।
+आरव:
+“CLAW! वापस आओ!”
+CLAW:
+“Guardian protocol... complete.”
+Scene 5 — Season Finale
+विशाल explosion के बाद सब शांत हो जाता है।
+आरव जमीन पर CLAW का छोटा सा power core उठाता है।
+अचानक core चमकता है।
+CLAW की आवाज़:
+"Guardian protocol... not terminated."
+आरव मुस्कुराता है।
+CUT TO BLACK.
+स्क्रीन पर:
+THE LAST CLAW
+SEASON 2 — COMING SOON
+अगर आप इसे �⁠AI से वीडियो बनाना चाहते हैं, तो अगला step मैं इसे और उपयोगी तरीके से बना सकता हूँ: �⁠हर Episode के हर Scene के लिए अलग-अलग 5–10 सेकंड का ready-to-copy video prompt + �⁠character consistency prompt + �⁠dialogue + �⁠camera movement + �⁠sound effects।
 <br/>
 <strong>Tear down the wall.</strong><br/>
 <br/>
